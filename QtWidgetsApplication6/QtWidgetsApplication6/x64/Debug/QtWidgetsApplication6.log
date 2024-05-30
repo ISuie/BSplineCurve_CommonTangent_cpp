@@ -1,0 +1,22 @@
+﻿  Reading Qt configuration (D:/Qt/Qt5.14.2/5.14.2/msvc2017_64/bin/qmake)
+  Tmesh.cpp
+  BezierCurve.cpp
+  BSplineCurve.cpp
+  AutoGeoCreate.cpp
+  Basis.cpp
+  Curve.cpp
+  FileUtil.cpp
+  MultiGeo.cpp
+  Surface.cpp
+  tinystr.cpp
+  tinyxml.cpp
+  tinyxmlerror.cpp
+  tinyxmlparser.cpp
+  Volume.cpp
+  OpenGLWidget.cpp
+  QtWidgetsApplication6.cpp
+  main.cpp
+  qrc_QtWidgetsApplication6.cpp
+  moc_QtWidgetsApplication6.cpp
+  moc_OpenGLWidget.cpp
+  QtWidgetsApplication6.vcxproj -> E:\code\opengl\QtWidgetsApplication6\x64\Debug\QtWidgetsApplication6.exe
